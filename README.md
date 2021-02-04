@@ -1,8 +1,10 @@
-< center>markdown居中文本< /center>
-## Welcome to BestGamer.cn
 
-热爱生活 分享游戏 我是Rok君
+## 万国觉醒攻略家-ROK君
 
-欢迎来到我的大本营
+分享自己的一些万国觉醒游戏心得 ROKJUN.COM
+
+游戏自有黄金屋，游戏自有颜如玉。
+
+[![y15X5j.jpg](https://s3.ax1x.com/2021/02/04/y15X5j.jpg)](https://imgchr.com/i/y15X5j)
 
 
